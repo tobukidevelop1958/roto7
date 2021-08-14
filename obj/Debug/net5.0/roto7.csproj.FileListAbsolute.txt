@@ -1,0 +1,16 @@
+C:\Users\moonb\source\repos\C#Project\roto7\obj\Debug\net5.0\roto7.csproj.AssemblyReference.cache
+C:\Users\moonb\source\repos\C#Project\roto7\obj\Debug\net5.0\roto7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moonb\source\repos\C#Project\roto7\obj\Debug\net5.0\roto7.AssemblyInfoInputs.cache
+C:\Users\moonb\source\repos\C#Project\roto7\obj\Debug\net5.0\roto7.AssemblyInfo.cs
+C:\Users\moonb\source\repos\C#Project\roto7\obj\Debug\net5.0\roto7.csproj.CoreCompileInputs.cache
+C:\Users\moonb\source\repos\C#Project\roto7\bin\Debug\net5.0\roto7.exe
+C:\Users\moonb\source\repos\C#Project\roto7\bin\Debug\net5.0\roto7.deps.json
+C:\Users\moonb\source\repos\C#Project\roto7\bin\Debug\net5.0\roto7.runtimeconfig.json
+C:\Users\moonb\source\repos\C#Project\roto7\bin\Debug\net5.0\roto7.runtimeconfig.dev.json
+C:\Users\moonb\source\repos\C#Project\roto7\bin\Debug\net5.0\roto7.dll
+C:\Users\moonb\source\repos\C#Project\roto7\bin\Debug\net5.0\ref\roto7.dll
+C:\Users\moonb\source\repos\C#Project\roto7\bin\Debug\net5.0\roto7.pdb
+C:\Users\moonb\source\repos\C#Project\roto7\obj\Debug\net5.0\roto7.dll
+C:\Users\moonb\source\repos\C#Project\roto7\obj\Debug\net5.0\ref\roto7.dll
+C:\Users\moonb\source\repos\C#Project\roto7\obj\Debug\net5.0\roto7.pdb
+C:\Users\moonb\source\repos\C#Project\roto7\obj\Debug\net5.0\roto7.genruntimeconfig.cache
